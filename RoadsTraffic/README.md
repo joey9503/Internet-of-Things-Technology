@@ -15,8 +15,9 @@ From this graph, there is a heavy traffic jam in the second intersection.<br></b
 ## Experiment 2
 From graph above, cars are only allowed to turn right in every intersection and will turn around at the end of the road. As described in the section "FlowChart", there is only one `carSource` in the whole model and there is on `CarDispose` so that the number of cars is fixed.
 ## Experiment 3
-The master and slave could be set with `probability`:
+The master and slave could be set with `probability`:  
 ![prob](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggqrzjm77xj30e6051t8p.jpg)
+<br></br>
 Compared with experiment 1, 3 experiments are going to be conducted:  
 `MaximumCars = 20`  
 `probability = 0.6` (probability of the side road is 0.6 and the probability of the  middle road is 0.4.)
