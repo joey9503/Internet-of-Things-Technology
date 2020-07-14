@@ -27,7 +27,7 @@ Obviously, compared to the counterpart, there is a minor traffic jam between the
 `MaximumCars = 50`  
 `probability = 0.7`
 ![prob-cars-50](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggqvepu5xig30rx0grb2a.gif)
-The site of traffic jam is bascially same with the `MaximumCars = 20`. The reasonable explanation is that when the cars at the first intersection, as the probability of side road is greater than the middle road's, marjority of cars choose to turn right, which could slow down the car behind. It can be deduced that when `MaximumCars = 80` and `probability = 0.7` the model will have similar behavior.
+The site of traffic jam is basically same with the `MaximumCars = 20`. The reasonable explanation is that when the cars at the first intersection, as the probability of side road is greater than the middle road's, marjority of cars choose to turn right, which could slow down cars behind. It can be deduced that when `MaximumCars = 80` and `probability = 0.7` the model has a similar behavior.
 <br></br>
 `MaximumCars = 80`  
 `probability = 0.7`
