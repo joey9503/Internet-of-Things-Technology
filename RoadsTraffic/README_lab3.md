@@ -12,7 +12,7 @@ According to the requirement, pedestrian crossing should be added to the road ne
 This pedestrain crossing has 2 roads to cross, from `WorkPlace` to `ResidentialArea`.
 ![ped-2](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggypfwn5dmg30u60gshdv.gif)
 Variables should be set to control the social distance between pedstrain:
-![social-distance](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggyq415aeqg30ja0gskjm.gif)
+![social-distance](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggyq415aeqg30ja0gskjm.gif)  
 From this graph, the maximum throughput of this area is 10.
 ## Summary
 In this job, I knew how to use traffic ligths to control the cars and add pedestrain crossing.
